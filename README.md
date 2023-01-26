@@ -4,7 +4,7 @@ K-Nearest Neighbor, and hierarchical clustering approach to Time Series Clusteri
 - There are 277 days worth of data and 1440 data points, corresponding to one observation every minute
 - All days have an equal number of data (1440) and no data point is absent
 
-Here is the given data
+Here is the given data after cleaning
 ![unclustered data](/unclustteredplots.png)
 
 
